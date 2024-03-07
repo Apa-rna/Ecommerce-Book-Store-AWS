@@ -13,7 +13,7 @@ This project is an implementation of an Online Book Store using various AWS serv
 3. Open the project in Visual Studio Code using the command `code ..`.
 4. Install Amplify globally.
 5. Login into your AWS account.
-6. Create an IAM user named `amplify-rohini2` and generate access keys for this user.
+6. Create an IAM user named `amplify-Aparna2` and generate access keys for this user.
 7. Use the generated credentials to login into the IAM User account through the terminal.
 
 ## AWS Services Used
